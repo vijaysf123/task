@@ -1,4 +1,4 @@
-(function () {
+```(function () {
     try {
       /* main variables */
       var debug = 0;
@@ -43,4 +43,4 @@
     } catch (e) {
       if (debug) console.log(e, "error in Test" + variation_name);
     }
-  })();
+  })();```
