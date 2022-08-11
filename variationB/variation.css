@@ -1,0 +1,30 @@
+.c-myregistry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eg_task {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 26px;
+
+}
+
+.eg_task>svg {
+    margin-left: 16px;
+    padding: 2px 3px;
+}
+svg.eg-first {
+    height: 45px;
+    padding: 15px 5px;
+    width: auto;
+    background-color: pink;
+}
+svg.eg-second {
+    height: 45px;
+    padding: 11px;
+    border: 1px solid #000;
+    width: auto;
+}
